@@ -1,8 +1,8 @@
-import header from './Header';
-import loader from './loader';
-import slider from './Slider';
-export {
-  header,
-  loader,
-  slider,
-};
+// import upperHeader from '/Header';
+// import loader from '/loader';
+// import slider from '/Slider';
+// export {
+//   upperHeader,
+//   loader,
+//   slider,
+// };

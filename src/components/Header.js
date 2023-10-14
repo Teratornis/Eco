@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import './Header.css'
 
-function Header() {
+function Header(props) {
+  console.log(props);
   return (
-    <div>Header</div>
+    <div className='headerContainer'>
+      <h1 className='headerTitle'>{props}</h1>
+      console.log(props,"header")
+    </div>
   )
 }
 
